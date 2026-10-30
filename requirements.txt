@@ -1,0 +1,10 @@
+fastapi==0.115.6
+pydantic==2.10.4
+numpy==2.2.1
+networkx==3.4.2
+z3-solver==4.13.4.0
+streamlit==1.41.1
+plotly==5.24.1
+pytest==8.3.4
+httpx==0.28.1
+uvicorn==0.34.0
